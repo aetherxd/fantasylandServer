@@ -1,2 +1,4 @@
 # fantasylandServer
-CAMELGAMES fantasyland LittleEmpire
+a littleEmpire's private server
+
+E-Mail: a_ether@qq.com
