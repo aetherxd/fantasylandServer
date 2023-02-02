@@ -1,0 +1,2 @@
+# fantasylandServer
+CAMELGAMES fantasyland LittleEmpire
